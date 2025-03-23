@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731235874 source:c:\ckodlari\karakterdizileri11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

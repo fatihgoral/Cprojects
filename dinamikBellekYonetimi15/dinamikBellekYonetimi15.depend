@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726061869 source:c:\ckodlari\dinamikbellekyonetimi15\main.c
+	<stdio.h>
+	<stdlib.h>
+

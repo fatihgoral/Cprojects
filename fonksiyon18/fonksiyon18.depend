@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722435442 source:c:\ckodlari\fonksiyon18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

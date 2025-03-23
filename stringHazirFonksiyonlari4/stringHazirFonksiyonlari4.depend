@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722965823 source:c:\ckodlari\stringhazirfonksiyonlari4\main.c
+	<stdio.h>
+	<stdlib.h>
+

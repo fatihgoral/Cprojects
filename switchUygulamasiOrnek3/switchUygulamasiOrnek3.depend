@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719987855 source:c:\ckodlari\switchuygulamasiornek3\main.c
+	<stdio.h>
+	<stdlib.h>
+

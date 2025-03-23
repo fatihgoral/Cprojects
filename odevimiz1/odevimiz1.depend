@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734720922 source:c:\ckodlari\odevimiz1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720090976 source:c:\ckodlari\typecating\main.c
+	<stdio.h>
+	<stdlib.h>
+

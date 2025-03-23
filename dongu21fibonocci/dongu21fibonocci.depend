@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720367650 source:c:\ckodlari\dongu21fibonocci\main.c
+	<stdio.h>
+	<stdlib.h>
+

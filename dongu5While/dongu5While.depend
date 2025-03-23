@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720241410 source:c:\ckodlari\dongu5while\main.c
+	<stdio.h>
+	<stdlib.h>
+

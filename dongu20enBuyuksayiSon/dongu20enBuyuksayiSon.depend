@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720356374 source:c:\ckodlari\dongu20enbuyuksayison\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

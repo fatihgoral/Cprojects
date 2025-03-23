@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733252614 source:c:\ckodlari\hafta9.4\main.c
+	<stdio.h>
+	<stdlib.h>
+

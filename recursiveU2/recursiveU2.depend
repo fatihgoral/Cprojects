@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733429866 source:c:\ckodlari\recursiveu2\main.c
+	<stdio.h>
+	<stdlib.h>
+

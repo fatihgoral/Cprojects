@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722832510 source:c:\ckodlari\fonksiyonrecursive2\main.c
+	<stdio.h>
+	<stdlib.h>
+

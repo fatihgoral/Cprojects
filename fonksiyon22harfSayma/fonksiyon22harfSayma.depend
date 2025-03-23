@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722590428 source:c:\ckodlari\fonksiyon22harfsayma\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735399896 source:c:\ckodlari\structu12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+1= tek sayi
+2= cift sayi
+3= tek sayi
+4= cift sayi
+5= tek sayi
+6= cift sayi
+7= tek sayi

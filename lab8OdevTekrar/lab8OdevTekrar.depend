@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732555046 source:c:\ckodlari\lab8odevtekrar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

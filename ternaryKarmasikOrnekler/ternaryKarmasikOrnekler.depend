@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720070146 source:c:\ckodlari\ternarykarmasikornekler\main.c
+	<stdio.h>
+	<stdlib.h>
+

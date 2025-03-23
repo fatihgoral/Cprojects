@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724400594 source:c:\ckodlari\struct10enum2\main.c
+	<stdio.h>
+	<stdlib.h>
+

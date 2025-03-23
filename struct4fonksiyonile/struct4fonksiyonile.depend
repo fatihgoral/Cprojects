@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724358570 source:c:\ckodlari\struct4fonksiyonile\main.c
+	<stdio.h>
+	<stdlib.h>
+

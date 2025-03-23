@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724343098 source:c:\ckodlari\struct2giris\main.c
+	<stdio.h>
+	<stdlib.h>
+

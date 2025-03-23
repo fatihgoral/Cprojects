@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724079246 source:c:\ckodlari\pointer11dizivepointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

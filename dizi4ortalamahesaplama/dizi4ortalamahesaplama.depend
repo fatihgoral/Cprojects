@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720884530 source:c:\ckodlari\dizi4ortalamahesaplama\main.c
+	<stdio.h>
+	<stdlib.h>
+

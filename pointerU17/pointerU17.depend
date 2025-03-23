@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733764643 source:c:\ckodlari\pointeru17\main.c
+	<stdio.h>
+	<stdlib.h>
+

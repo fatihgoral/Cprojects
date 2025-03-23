@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723987737 source:c:\ckodlari\pointer4giris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

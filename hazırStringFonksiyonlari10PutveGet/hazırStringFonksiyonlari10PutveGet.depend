@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1723020094 source:c:\ckodlari\hazýrstringfonksiyonlari10putveget\main.c
+	<stdio.h>
+	<stdlib.h>
+

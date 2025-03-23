@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724581349 source:c:\ckodlari\struct20nethesaplama\main.c
+	<stdio.h>
+	<stdlib.h>
+

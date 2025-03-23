@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735487923 source:c:\ckodlari\structu26\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724425802 source:c:\ckodlari\struct17union\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

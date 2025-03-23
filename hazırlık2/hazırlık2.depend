@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734957774 source:c:\ckodlari\hazýrlýk2\main.c
+	<stdio.h>
+	<stdlib.h>
+

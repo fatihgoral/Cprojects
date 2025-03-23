@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720087700 source:c:\ckodlari\datatypebolme\main.c
+	<stdio.h>
+	<stdlib.h>
+

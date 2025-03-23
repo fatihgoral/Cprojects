@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729276542 source:c:\ckodlari\temelatmaegzersizlerifahtocel\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719920253 source:c:\ckodlari\tekciftsayibulma\main.c
+	<stdio.h>
+	<stdlib.h>
+

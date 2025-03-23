@@ -1,0 +1,10 @@
+11111  Ahmet   85
+22222  Ayşe    90
+33333  Mehmet  78
+44444  Elif    92
+55555  Ali     88
+66666  Zeynep  76
+77777  Emre    81
+88888  Fatma   95
+99999  Can     89
+10101  Hasan   82

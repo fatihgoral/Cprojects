@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726660723 source:c:\ckodlari\diziornek4transpose\main.c
+	<stdio.h>
+	<stdlib.h>
+

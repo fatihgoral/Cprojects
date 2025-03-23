@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733843030 source:c:\ckodlari\labh10\main.c
+	<stdio.h>
+	<stdarg.h>
+

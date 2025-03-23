@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726144994 source:c:\ckodlari\dosyalama8fread\main.c
+	<stdio.h>
+	<stdlib.h>
+

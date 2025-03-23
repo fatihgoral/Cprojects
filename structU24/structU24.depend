@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735483462 source:c:\ckodlari\structu24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

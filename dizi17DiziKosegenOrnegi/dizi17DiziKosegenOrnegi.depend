@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721116400 source:c:\ckodlari\dizi17dizikosegenornegi\main.c
+	<stdio.h>
+	<stdlib.h>
+

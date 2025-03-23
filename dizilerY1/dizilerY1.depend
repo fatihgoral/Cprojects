@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731140780 source:c:\ckodlari\dizilery1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

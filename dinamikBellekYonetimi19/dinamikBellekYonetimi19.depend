@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726082179 source:c:\ckodlari\dinamikbellekyonetimi19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

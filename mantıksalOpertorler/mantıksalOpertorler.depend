@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719913634 source:c:\ckodlari\mantýksalopertorler\main.c
+	<stdio.h>
+	<stdlib.h>
+

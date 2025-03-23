@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726858664 source:c:\ckodlari\fonksiyonegzersiz\main.c
+	<stdio.h>
+	<stdlib.h>
+

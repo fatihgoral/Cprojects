@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729072938 source:c:\ckodlari\structenonemlipointerli\main.c
+	<stdio.h>
+	<stdlib.h>
+

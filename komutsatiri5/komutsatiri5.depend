@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733323043 source:c:\ckodlari\komutsatiri5\main.c
+	<stdio.h>
+	<stdlib.h>
+
