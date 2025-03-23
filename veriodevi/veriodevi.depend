@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1734738943 source:c:\ckodlari\veriodevi\main.c
-	<stdbool.h>
-	<stdio.h>
-	<stdlib.h>
-
