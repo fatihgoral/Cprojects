@@ -1,12 +1,17 @@
 #include <stdio.h>
-#include <stdlib.h>
 
-int main()
-{
-    float sayi= (float)9/4;// ,iki int sayiyi bolersek normalde sonuc da int cikara ama biz type casting islemi yaparsak bu sorunu cozmus oluruz
-    printf("%.2f",sayi);
+int main() {
+    int notlar[] = {50, 70, 85, 90, 100};
+    float toplam = 0;
+    float ortalama;
+    int n = sizeof(notlar) / sizeof(notlar[0]);
 
+    for (int i = 0; i < n; i++) {
+        toplam += (float)notlar[i];  // her eleman float'a çevriliyor
+    }
 
+    ortalama = toplam / n;
+    printf("Ortalama: %.2f\n", ortalama);
 
     return 0;
 }
